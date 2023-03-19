@@ -10,7 +10,7 @@ With the NE555 circuit, there are already pre-built Spice models available, howe
 I urge you to investigate each element of this model, comprehend how it works, play around with it, and try to improve it. You can learn more about the operation of Spice models and how they might be enhanced by doing this.
 
 ### Usage
-Open the [NE555 sch.asc](NE555 sch.asc) file using your preferred spice programme after downloading. (ex. LTSpice). All but the reset pin are included and labeled in the model. Connect the circuit like you would any other circuit and start simulating! and example astable implementation can be found in the repo under [Astable Example.asc](Astable Example.asc).
+Open the [NE555 sch.asc](../NE555 sch.asc) file using your preferred spice programme after downloading. (ex. LTSpice). All but the reset pin are included and labeled in the model. Connect the circuit like you would any other circuit and start simulating! and example astable implementation can be found in the repo under [Astable Example.asc](Astable Example.asc).
 
 ### Contributing
 If you find any issues with the NE555 Spice model, or if you have suggestions for improvements or new features, please feel free to open an issue or submit a pull request. Contributions are welcome and appreciated!
