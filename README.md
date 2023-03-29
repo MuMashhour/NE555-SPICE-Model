@@ -1,5 +1,5 @@
 # NE555-SPICE-Model
-Welcome to the NE555 Timer Spice Model repository! This project contains a Spice model for the popular NE555 timer IC, which is widely used in electronic circuits for generating accurate time delays or oscillations.
+This project contains a Spice model for the popular NE555 timer IC, which is widely used in electronic circuits for generating accurate time delays or oscillations.
 
 ### What is a Spice Model?
 A Spice model is a mathematical depiction of an actual electronic part, like an integrated circuit, resistor, or capacitor. It gives details about the electrical properties of the component, including its capacitance, resistance, and current-voltage behaviour. Engineers can simulate the behaviour of electronic circuits that contain the represented components using spice models.
