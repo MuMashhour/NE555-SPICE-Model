@@ -11,6 +11,11 @@ I urge you to investigate each element of this model, comprehend how it works, p
 
 ### Usage
 Open the [NE555 sch.asc](https://github.com/MuMashhour/NE555-SPICE-Model/blob/main/NE555%20sch.asc) file using your preferred spice programme after downloading. (ex. LTSpice). All but the reset pin are included and labeled in the model. Connect the circuit like you would any other circuit and start simulating. An example astable implementation can be found in the repo under [Astable Example.asc](https://github.com/MuMashhour/NE555-SPICE-Model/blob/main/Astable%20Example.asc).
+<br><br>
+
+| The Model | Astable Operation Plot |
+| :--- | :--- |
+|<img src="https://user-images.githubusercontent.com/98267072/228856313-9e911b65-5073-4749-9da0-2a365ea8cb6d.png" width="400px"/>|<img src="https://user-images.githubusercontent.com/98267072/228856975-fcd6ada3-971e-4a43-b080-87796b74e117.png" width="400px"/>|
 
 ### Contributing
 If you find any issues with the NE555 Spice model, or if you have suggestions for improvements or new features, please feel free to open an issue or submit a pull request. Contributions are welcome and appreciated!
